@@ -1,6 +1,6 @@
 # GGGDunlix Github Profile
 
-Hi! I'm a amateur developer who's done a lot of useless things, but some people find them pretty useful. Weird. If you are one of those people, you are in the right place.
+Hi! I'm an amateur developer who's done a lot of useless things, but some people find them pretty useful. Weird. If you are one of those people, you are in the right place.
 
 
 ## Experience
